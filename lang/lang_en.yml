@@ -305,9 +305,9 @@ nulang:
       youtnt: 'You now carry the sabotage tool!'
       notgooditem: 'You need sabotage tool to ignite the TNT.'
     tank:
-      tankdown: The tank is down!
-      tankmode: TANK MODE! Everyone kill %1%, the tank!
-      tankwon: The tank has won! Congratulations to %1%!
+      tankdown: 'The Imposter is down!'
+      tankmode: 'Imposter MODE! Chat cannot be used'
+      tankwon: 'The tank has won! Congratulations to %1%!'
     tdc:
       denied: '%1% denied a kill!'
       remaining: '%1% kills remaining for %2%.'
